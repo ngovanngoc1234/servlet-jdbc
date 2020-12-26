@@ -1,0 +1,10 @@
+Servlet.java
+ Servlet
+Dept.java
+ Dept
+DBUtils.java
+ DBUtils
+Emp.java
+ Emp
+TranslationServlet.java
+ TranslationServlet
